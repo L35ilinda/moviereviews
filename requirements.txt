@@ -23,11 +23,6 @@ python-lsp-server==1.7.2
 python-slugify==5.0.2
 python-snappy==0.6.1
 pytoolconfig==1.2.5
-pytz==2023.3.post1
-pyviz-comms==2.3.0
-PyWavelets==1.4.1
-pywin32==305.1
-pywin32-ctypes==0.2.0
 pywinpty==2.0.10
 requests==2.31.0
 requests-file==1.5.1
@@ -35,6 +30,5 @@ requests-toolbelt==1.0.0
 responses==0.13.3
 SQLAlchemy==1.4.39
 sqlparse==0.4.4
-Unidecode==1.2.0
 urllib3==1.26.16
 wheel==0.38.4
